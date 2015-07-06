@@ -98,8 +98,8 @@ As title.
     <td>同上</td>
   </tr>
  <tr>
-    <td>>25-8.1</td>
-    <td>上午</td>
+    <td>25-8.1</td>
+    <td>AM</td>
     <td>志愿者活动（抽空学习Python并刷算法题）</td>
     <td>志愿者活动（抽空学习Python并刷算法题）</td>
     <td>志愿者活动（抽空编写结业课程设计）</td>    
@@ -110,7 +110,7 @@ As title.
   </tr>
  <tr>
     <td></td>
-    <td>下午</td>
+    <td>PM</td>
     <td>志愿者活动（抽空学习Python并刷算法题）</td>
     <td>志愿者活动（抽空学习Python并刷算法题）</td>
     <td>志愿者活动（抽空编写结业课程设计</td>    
