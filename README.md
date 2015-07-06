@@ -34,7 +34,7 @@ As title.
   <tr>
     <td>4  -   10</td>
     <td>AM</td>
-    <td>参加封训开始会议（如果有的话）</td>
+    <td>参加封训开始会议并整理暑期计划</td>
     <td>Java第二阶段学习（面向对象编程）</td>
     <td>Java第二阶段学习（面向对象编程）</td>    
     <td>Java第三阶段学习（进阶）</td>
@@ -82,7 +82,7 @@ As title.
     <td>Android第四阶段学习(roor原理)</td>
     <td>Android第四阶段学习(roor原理)</td>    
     <td>Android各种控件深度挖掘（慕课网）</td>
-    <td>志愿者活动（抽空学习Python并刷算法题）</td>
+    <td>参加首届APP大赛的志愿者活动（抽空学习Python并刷算法题）</td>
     <td>同左</td>
     <td>同左</td>
   </tr>
