@@ -124,7 +124,6 @@ As title.
 [慕课网]([http://www.imooc.com/](http://www.imooc.com/))  
 [开源中国]([http://www.oschina.net/](http://www.oschina.net/))  
 [CSDN]([http://www.csdn.net/](http://www.csdn.net/)  )   
-[开源中国]([http://www.oschina.net/](http://www.oschina.net/))  
 [LeetCode]([https://leetcode.com/problemset/algorithms/](https://leetcode.com/problemset/algorithms/))    
 [百度一下]([http://www.baidu.com/](http://www.baidu.com/)  )   
 印象笔记-Android小机器人 by Homker
